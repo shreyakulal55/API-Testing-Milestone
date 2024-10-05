@@ -1,5 +1,4 @@
 # API-Testing-Milestone
-# API-Testing-Milestone-
 
 ## Problem Statement 
 As a QA Engineer for a growing software development company, your task is to
